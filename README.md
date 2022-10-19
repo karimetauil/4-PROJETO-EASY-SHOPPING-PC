@@ -1,6 +1,6 @@
 <h1 align="center"> Easy Shopping - PC</h1>
 
-<p align="center">Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack Dev Club.</p>
+<h4 align="center"> Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack <a href="https://rodolfomori.com.br/devclub" target="_blank"> Dev Club. </a> </h4>
 
 <br>
 
@@ -32,7 +32,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML5
 - CSS3
-- JavaScript 
 
 ## 💻 Projeto
 
