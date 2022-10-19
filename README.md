@@ -13,18 +13,9 @@
     
 <br>
 
-PRINT DA TELAAA (logo vou postar)
-<br>
-PRINT DA TELAAA (logo vou postar)
-<br>
-PRINT DA TELAAA (logo vou postar)
-<br>
-PRINT DA TELAAA (logo vou postar)
-<br>
-PRINT DA TELAAA (logo vou postar)
-<br>
-PRINT DA TELAAA (logo vou postar)
+<img src="https://github.com/karimetauil/projeto---2-Easy-Shopping---pc/blob/main/capturas/Capturar%20Site%20inteiro.PNG?raw=true">
 
+<br>
 
 ## 🚀 Tecnologias
 
@@ -35,11 +26,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto Easy Shopping simula -----------, onde é possível adicionar --------------.
+O Projeto Easy Shopping simula um site de compras facéis pelo celular, onde é possível adicionar produtos e fazer contatos com o responsável.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/NLeHPJXuYE08PPmRce9nhP/Shopping-via-mobile-illustration?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
